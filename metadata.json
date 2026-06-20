@@ -1,0 +1,6 @@
+{
+  "name": "DostLog, Purani Yade",
+  "description": "A responsive, nostalgic personal memory scrapbook to upload, search, and preserve precious live memories on an interactive timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
